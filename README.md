@@ -58,7 +58,7 @@ I thrive on music while working and once earned fourth place in a coding competi
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasenthinathan-kamsayini-1b7399287/recent-activity/all/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasenthinathan-kamsayini-1b7399287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kamsayini/Kamsayini)
 
 ---
